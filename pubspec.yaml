@@ -1,7 +1,7 @@
 name: bump_build
 description: A dev dependency for helping the creation of Android and iOS releases.
 version: 0.0.1
-homepage: github.com/mludovico/build_bump
+homepage: https://github.com/mludovico/bump_build
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
